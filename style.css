@@ -1,0 +1,17 @@
+.futbol{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#botonordenar{
+    display:none;
+}
+input{
+    margin: 15px;
+}
+#quitarcomas{
+    border: 1px solid red;
+     padding: 10px;
+      background-color: lightcoral;
+       border-radius: 10px;
+        width: 50%;
+}
